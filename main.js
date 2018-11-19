@@ -1,5 +1,5 @@
 // import functions from functions.js here
-
+let { add, subtract, sayHello } = require('./functions.js')
 
 
 //
